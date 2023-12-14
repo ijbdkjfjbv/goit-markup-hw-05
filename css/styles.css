@@ -793,6 +793,7 @@ body {
 .review-form-checkbox:focus 
 + .review-form-checkbox-label 
 > .review-form-own-checkbox {
+    fill: #F4F4FD;;
     outline: 2px solid rgba(0, 0, 255, 0.5);
 }
 
