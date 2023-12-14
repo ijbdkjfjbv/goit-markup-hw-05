@@ -639,7 +639,7 @@ body {
     background-color: transparent;
     border: none;
     line-height: 0;
-    /* stroke: #2E2F42; */
+    stroke: #2E2F42;
     transition: stroke 250ms linear;
     background-color: var(--cornflower);
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -648,7 +648,7 @@ body {
 
 .modal-close-btn:hover,
 .modal-close-btn:focus {
-    /* stroke: #FFFFFF; */
+    stroke: #FFFFFF;
     fill: #FFF;
     background-color: #404BBF;
 }
