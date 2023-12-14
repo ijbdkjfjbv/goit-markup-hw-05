@@ -878,7 +878,10 @@ opacity: 1;
         padding: 8px 24px;
         justify-content: center;
         align-items: center;
-        gap: 16px;
         border-radius: 4px;
         background: var(--IRIS, #4D5AE5);
+}
+
+.review-buy-now-btn {
+margin-left: 16px;
 }
