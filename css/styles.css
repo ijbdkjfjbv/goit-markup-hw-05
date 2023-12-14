@@ -787,6 +787,7 @@ body {
 .review-form-checkbox:checked 
 + .review-form-checkbox-label 
 > .review-form-own-checkbox {
+    border: none;
     background-color: #404BBF;
 }
 .review-form-checkbox:focus 
