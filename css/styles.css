@@ -843,7 +843,10 @@ opacity: 1;
         background: var(--IRIS, #4D5AE5);
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
-
+.review-footer {
+    display: flex;
+    gap: 24px;
+}
 .review-form-footer {
     width: 264px;
         height: 40px;
@@ -858,5 +861,4 @@ opacity: 1;
         letter-spacing: 0.04em;
         padding-left: 16px;
         color: #ffffff;
-
 }
